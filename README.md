@@ -1,4 +1,4 @@
-# K Nearest Neighbors Implementation
+# K Nearest Neighbours Implementation
 
 
 ## Overview
